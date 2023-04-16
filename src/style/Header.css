@@ -1,0 +1,118 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+
+    width: auto;
+    height: auto;
+    /* background-color: aqua; */
+}
+
+.H1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    color: #0A70A3;
+    font-size: 1.5rem;
+    text-align: center;
+
+    padding-top: 1rem;
+    height: 2rem;
+    width: auto;
+}
+
+.H2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    color: #0A70A3;
+    font-size: 2.5rem;
+    text-align: center;
+
+    padding-top: 1rem;
+    height: 3rem;
+    width: auto;
+}
+
+.date{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    color: #0A70A3;
+    font-size: 1.5rem;
+    text-align: center;
+    height: auto;
+
+    padding-top: 1rem;
+    height: 2rem;
+    width: auto;
+}
+
+hr{
+    width: 100rem;
+}
+
+.suas{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+    color: #EC2127;
+
+    font-size: 1.8rem;
+
+    padding-top: 1rem;
+    height: 2rem;
+    width: auto;
+}
+
+@media (max-width : 770px) {
+    .main{
+        display: block;
+        height: auto;
+        width: 100%;
+        align-items: center;
+    }
+    .H1{
+        display: block;
+        font-size: 1rem;
+        text-align: center;
+        padding-top: 0.5rem;
+        height: auto;
+        width: 100%;
+    }
+    
+    .H2{
+        display: block;
+        font-size: 1.7rem;
+        text-align: center;
+        padding-top: 0.5rem;
+        height: auto;
+        width: 100%;
+    }
+    
+    .date{
+        display: block;
+        font-size: 1rem;
+        text-align: center;
+        padding-top: 0.5rem;
+        height: auto;
+        width: 100%;
+    }
+    
+    hr{
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+    
+    .suas{
+        display: block;
+        font-size: 1.1rem;
+        text-align: center;
+        padding-top: 0.5rem;
+        height: auto;
+        width: 100%;
+    }
+}
