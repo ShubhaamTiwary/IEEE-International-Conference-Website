@@ -1,0 +1,16 @@
+.main-footer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(17,33,66);
+    color: #ffffff;
+}
+
+.one{
+    padding-top: 1rem;
+}
+
+.two{
+    padding-top: 0.8rem;
+}
