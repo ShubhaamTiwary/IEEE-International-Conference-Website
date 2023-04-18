@@ -1,5 +1,5 @@
 import React from 'react';
-import { Route, Routes } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import Header from './components/Header';
@@ -9,14 +9,14 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div>
+    <BrowserRouter>
       <Header />
-      {/* <Navbar />
-      <Routes>  
-        <Route path='/' element={<Home />} />
-      </Routes>
-      <Footer /> */}
-    </div>
+      <Navbar />
+        <Routes>  
+          <Route path='/' element={<Home />} />
+        </Routes>
+      {/* <Footer /> */}
+    </BrowserRouter>
   );
 }
 

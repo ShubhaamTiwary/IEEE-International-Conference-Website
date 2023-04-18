@@ -15,7 +15,7 @@ const Header = () => {
       </div>
       <hr />
       <div className='suas'>
-      Symbiosis University Of Applied Sciences Indore, India
+      Technically Co-Sponsored by IEEE Computational Intelligence Society
       </div>
     </div>
   )
