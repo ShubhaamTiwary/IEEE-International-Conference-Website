@@ -3,6 +3,7 @@ import ImageSlider from '../components/ImageSlider'
 import TextSlider from '../components/TextSlider'
 import About from '../components/About'
 import Contact from '../components/Contact'
+import GMap from '../components/GMap'
 
 const Home = () => {
   return (
@@ -10,7 +11,8 @@ const Home = () => {
       <ImageSlider />
       <TextSlider />
       <About /> 
-      {/* <Contact /> */}
+      <Contact />
+      <GMap />
     </div>
   )
 }
