@@ -26,11 +26,11 @@
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
-    color: #0A70A3;
+    color:  #EC2127;
     font-size: 2.5rem;
     text-align: center;
 
-    padding-top: 1rem;
+    /* padding-top: rem; */
     height: 3rem;
     width: auto;
 }
@@ -44,7 +44,7 @@
     text-align: center;
     height: auto;
 
-    padding-top: 1rem;
+    padding-top: 0.5rem;
     height: 2rem;
     width: auto;
 }
@@ -58,11 +58,11 @@ hr{
     font-style: normal;
     font-weight: 700;
     text-align: center;
-    color: #EC2127;
+    color: #0A70A3;
 
     font-size: 1.8rem;
 
-    padding-top: 1rem;
+    padding-top: 0rem;
     height: 2rem;
     width: auto;
 }
@@ -78,16 +78,17 @@ hr{
         display: block;
         font-size: 1rem;
         text-align: center;
-        padding-top: 0.5rem;
+        padding-top: 0.8rem;
         height: auto;
         width: 100%;
     }
     
     .H2{
         display: block;
-        font-size: 1.7rem;
+        font-size: 1.6rem;
         text-align: center;
-        padding-top: 0.5rem;
+        padding-top: 0.1rem;
+        line-height: 1.9rem;
         height: auto;
         width: 100%;
     }
@@ -96,7 +97,7 @@ hr{
         display: block;
         font-size: 1rem;
         text-align: center;
-        padding-top: 0.5rem;
+        padding-top: 0.1rem;
         height: auto;
         width: 100%;
     }
@@ -111,7 +112,7 @@ hr{
         display: block;
         font-size: 1.1rem;
         text-align: center;
-        padding-top: 0.5rem;
+        /* padding-top: 0.5rem; */
         height: auto;
         width: 100%;
     }
