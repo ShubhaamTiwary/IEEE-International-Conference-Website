@@ -1,13 +1,14 @@
 import React from 'react'
 import ImageSlider from '../components/ImageSlider'
 import TextSlider from '../components/TextSlider'
+import About from '../components/About'
 
 const Home = () => {
   return (
     <div className='main'>
       <ImageSlider />
       <TextSlider />
-
+      <About />
     </div>
   )
 }

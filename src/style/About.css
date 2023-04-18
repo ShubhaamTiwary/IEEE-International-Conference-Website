@@ -1,0 +1,69 @@
+.main-about{
+    width: 100%;
+    height: auto;
+    background-color: rgb(240,244,246);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.Heading{
+    padding-top: 3rem;
+    font-size: 2.7rem;
+    color: rgb(35,28,140);
+    font-weight: 550;
+}
+
+.AboutContent{
+    width: 85%;
+    height: auto;
+}
+.AboutContent p{
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ieeeLogo{
+    height: auto;
+    width: auto;
+}
+.ieeeLogo img{
+    width: 17rem;
+}
+
+.IEEE-Flyer{
+    padding-top: 2rem;
+}
+
+.IEEE-Flyer button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 15vw;
+    height: 7vh;
+    color: white;
+    background: #003E7C;
+    border-radius: 8px;
+    font-weight: 600;
+}
+.IEEE-Flyer button:hover{
+    cursor:pointer;
+}
+.sponsors{
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.sponsors-title{
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+.sponsors-logos{
+    padding-top: 1rem;
+}
