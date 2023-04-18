@@ -15,7 +15,7 @@ const Header = () => {
       </div>
       <hr />
       <div className='suas'>
-      Technically Co-Sponsored by IEEE Computational Intelligence Society
+      Technically Co-Sponsored by IEEE MP Section
       </div>
     </div>
   )

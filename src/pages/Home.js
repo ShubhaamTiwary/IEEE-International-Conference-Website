@@ -2,13 +2,15 @@ import React from 'react'
 import ImageSlider from '../components/ImageSlider'
 import TextSlider from '../components/TextSlider'
 import About from '../components/About'
+import Contact from '../components/Contact'
 
 const Home = () => {
   return (
     <div className='main'>
       <ImageSlider />
       <TextSlider />
-      <About />
+      <About /> 
+      {/* <Contact /> */}
     </div>
   )
 }
