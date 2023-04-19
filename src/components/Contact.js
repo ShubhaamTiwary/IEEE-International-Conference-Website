@@ -1,38 +1,27 @@
 import React from 'react'
 import '../style/Contact.css'
-import location from '../resources/location.svg';
-import email from '../resources/email.svg';
-import call from '../resources/call.svg';
+import location from '../resources/location-sign-svgrepo-com.svg';
+import email from '../resources/email-8-svgrepo-com.svg';
+import call from '../resources/call-svgrepo-com.svg';
 
 const Contact = () => {
   return (
-    <div className='contact-main'>
-        Contact Details
-        <div className='venue'>
-            <div className='v-logo'>
-              
+    <div>
+        <div class="bar1">
+            <div class="venue">
+                <img src={location} alt="" /><br />            
+                <a href="">VENUE</a>
+                <p>Mahindra University<br />Survey No. 62/1A, Bahadurpally,<br />Jeedimetla Hyderabad<br />500043, Telangana, INDIA.</p>
             </div>
-            <div className='v-header'>
+            <div class="contact">
+                <img src={call} alt="" /><br />
+                <a href="">CONTACT</a>
+                <p>+91-6302 973 899</p>
             </div>
-            <div className='v-content'>
-              <p></p>
-            </div>
-        </div>
-        <div className='contact'>
-            <div className='c-logo'>
-            
-            </div>
-            <div className='c-header'>
-            </div>
-            <div className='c-content'>
-            </div>
-        </div>
-        <div className='email'>
-            <div className='e-logo'>
-            </div>
-            <div className='e-header'>
-            </div>
-            <div className='e-content'>
+            <div class="email">
+                <img src={email} alt="" /><br />
+                <a href="">EMAIL</a>
+                <p>ietcint@hotmail.com</p>
             </div>
         </div>
     </div>

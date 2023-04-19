@@ -7,13 +7,13 @@ import GMap from '../components/GMap'
 
 const Home = () => {
   return (
-    <div className='main'>
+    <section className='main'>
       <ImageSlider />
       <TextSlider />
       <About /> 
       <Contact />
       <GMap />
-    </div>
+    </section>
   )
 }
 
