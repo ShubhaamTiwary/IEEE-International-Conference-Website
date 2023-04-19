@@ -20,9 +20,9 @@ const About = () => {
             About Conference
         </div>
         <div className='AboutContent'>
-        <p>The Third International Conference on Emerging Techniques in Computational Intelligence, ICETCI 2023 will be held at Mahindra University, Hyderabad, India, from September 21 to 23, 2023. The conference will consist of one day of tutorial sessions followed by two days of keynote lectures by invited experts and technical paper presentations by practitioners. We invite submission of papers from all areas of Computational Intelligence, both emerging topics which form the theme of the conference as well as more established areas, presenting developments in algorithms as well as applications. All papers will pass through a multiple peer-review process, and accepted papers will be submitted for inclusion into IEEE Xplore subject to meeting IEEE Xplore’s scope and quality requirements.
+        <p>The First International Conference on Emerging Technology and Skill Management (ICETSM) will be held on December 15-16, in Indore, India. The conference is technically co-sponsored by IEEE MP Section, and the host university is Symbiosis University of Applied Sciences.ICETSM 2023 aims to provide a platform for researchers, academicians, industry practitioners, and students to exchange and share their knowledge and experiences in the emerging areas of technology and skill management. The conference will include keynote speeches, technical paper presentations, and panel discussions.It aims to bring together individuals from academia, industry, and government organizations to share their knowledge, experiences, and best practices. We look forward to welcoming you to Indore, India, for this exciting conference.
         <br />
-        <p>Proceedings of the Second ICETCI held in 2022 are now live on IEEE Xplore</p>
+        <p>Below is the IEEE Flyer oor ICEPSM 2023</p>
         </p>
         </div>
         <div className='ieeeLogo'>
@@ -33,7 +33,7 @@ const About = () => {
         </div>
         <div className='sponsors'>
             <div className='sponsors-title'>
-            <p>The Conference will be supported by industry relevant tutorials conducted by NVIDIA, Tech Mahindra, etc.</p>
+            <p>The Conference will be supported by industry relevant tutorials conducted by Infosys, TCS, Computer Society, etc </p>
             </div>
             <div className='sponsors-logos'>
                 <img src={spons} />
