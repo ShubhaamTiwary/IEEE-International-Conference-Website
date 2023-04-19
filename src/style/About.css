@@ -30,7 +30,8 @@
     width: auto;
 }
 .ieeeLogo img{
-    width: 17rem;
+    width: 15rem;
+    height: auto;
 }
 
 .IEEE-Flyer{
@@ -76,6 +77,7 @@
 }
 .sponsors-logos img{
     width: 60rem;
+    height: auto;
 }
 .sponsors{
     padding-bottom: 2rem;
