@@ -1,7 +1,7 @@
 import React from 'react'
 import '../style/ImageSlider.css'
-import frame1 from '../resources/Frame 53.svg';
-import frame2 from '../resources/Frame 54.svg';
+import frame1 from '../resources/Symb1.png';
+import frame2 from '../resources/symbi2.png';
 import frame3 from '../resources/Frame 55.svg';
 import frame4 from '../resources/Frame 56.svg';
 import frame5 from '../resources/Frame 57.svg';

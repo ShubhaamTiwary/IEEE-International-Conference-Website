@@ -14,7 +14,7 @@
     font-style: normal;
     font-weight: 700;
     color: #0A70A3;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     text-align: center;
 
     padding-top: 1rem;
@@ -27,7 +27,7 @@
     font-style: normal;
     font-weight: 700;
     color:  #EC2127;
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     text-align: center;
 
     /* padding-top: rem; */
@@ -40,11 +40,11 @@
     font-style: normal;
     font-weight: 500;
     color: #0A70A3;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     text-align: center;
     height: auto;
 
-    padding-top: 0.5rem;
+    padding-top: 0.3rem;
     height: 2rem;
     width: auto;
 }
@@ -60,7 +60,7 @@ hr{
     text-align: center;
     color: #0A70A3;
 
-    font-size: 1.8rem;
+    font-size: 1.5rem;
 
     padding-top: 0rem;
     height: 2rem;

@@ -1,6 +1,6 @@
   .slider{
     width: 800px;
-    height: 500px;
+    height: auto;
     overflow: hidden;
     padding-bottom: 1rem;
   }
