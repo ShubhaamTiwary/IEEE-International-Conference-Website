@@ -1,3 +1,17 @@
+.OuterDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.iee-logo{
+    width: 9rem;
+    height: 10rem;
+}
+.suas-logo{
+    width: 17rem;
+    height: 10rem;
+}
 .main{
     display: flex;
     flex-direction: column;
