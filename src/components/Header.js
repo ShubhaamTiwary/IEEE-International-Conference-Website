@@ -6,7 +6,7 @@ import logo_suas from '../resources/logo_suas.svg'
 const Header = () => {
   return (
     <div className='OuterDiv'>
-      <img className='iee-logo' src={iee_logo} />
+      <img className='suas-logo' src={logo_suas} />
     <div className='main'>
       <div className='H1'>
       The First International Conference on 
@@ -23,7 +23,7 @@ const Header = () => {
       </div>
       
     </div>
-      <img className='suas-logo' src={logo_suas} />
+    <img className='iee-logo' src={iee_logo} />
     </div>
   )
 }
