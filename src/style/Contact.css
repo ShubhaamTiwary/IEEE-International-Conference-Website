@@ -1,4 +1,7 @@
-
+.main-bar1{
+    font-size: 1.1rem;
+    font-weight: 500;
+}
 .bar1{
     display: flex;
     /* align-content: center; */
@@ -29,6 +32,8 @@
 a{
     align-content: center;
     text-align: center;
+    text-decoration: none;
+    color: black;
 }
 p{
     align-content: center;

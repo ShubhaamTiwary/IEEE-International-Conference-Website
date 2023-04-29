@@ -6,13 +6,17 @@ const TextSlider = () => {
     <div>
       <div className='text-slider'>
       <marquee behavior="" direction="left">
-        Welcome to IEEE Symbiosis International Conference 2023 
+        Welcome to International Conference on
+Emerging Technology and Skill Management ICETSM 2023 
         &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;
-        Welcome to IEEE Symbiosis International Conference 2023 
+        Welcome to International Conference on
+Emerging Technology and Skill Management ICETSM 2023
         &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; 
-        Welcome to IEEE Symbiosis International Conference 2023
+        Welcome to International Conference on
+Emerging Technology and Skill Management ICETSM 2023
         &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; 
-        Welcome to IEEE Symbiosis International Conference 2023 
+        Welcome to International Conference on
+Emerging Technology and Skill Management ICETSM 2023 
       </marquee>
       </div>
     </div>

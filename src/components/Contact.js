@@ -8,7 +8,7 @@ const Contact = () => {
   return (
     // ICEPSM
     // Super Corridor, Near Airport, Bada Bangarda, Indore, Madhya Pradesh 453112
-    <div>
+    <div className='main-bar1'>
         <div class="bar1">
             <div class="venue">
                 <img src={location} alt="" /><br />            
@@ -23,7 +23,7 @@ const Contact = () => {
             <div class="email">
                 <img src={email} alt="" /><br />
                 <a href="">EMAIL</a>
-                <p>suas@gmail.com</p>
+                <p>conference@suas.ac.in</p>
             </div>
         </div>
     </div>

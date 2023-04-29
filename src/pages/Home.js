@@ -12,7 +12,6 @@ const Home = () => {
       <TextSlider />
       <About /> 
       <Contact />
-      <GMap />
     </section>
   )
 }

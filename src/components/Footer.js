@@ -3,8 +3,8 @@ import '../style/Footer.css'
 const Footer = () => {
   return (
     <div className='main-footer'>
-      <div className='one'>IEEE Ethics Reporting </div>
-      <div className='two'>© Copyrights ICETSM 2023. All Rights Reserved. </div>
+      <div className='one'>All Rights Reserved</div>
+      <div className='two'>© Copyrights ICETSM 2023, IEEE SUAS Student Branch  </div>
     </div>
   )
 }

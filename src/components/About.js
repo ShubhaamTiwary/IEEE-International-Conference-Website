@@ -20,9 +20,22 @@ const About = () => {
             About Conference
         </div>
         <div className='AboutContent'>
-        <p>The First International Conference on Emerging Technology and Skill Management (ICETSM) will be held on December 15-16, in Indore, India. The conference is technically co-sponsored by IEEE MP Section, and the host university is Symbiosis University of Applied Sciences.ICETSM 2023 aims to provide a platform for researchers, academicians, industry practitioners, and students to exchange and share their knowledge and experiences in the emerging areas of technology and skill management. The conference will include keynote speeches, technical paper presentations, and panel discussions.It aims to bring together individuals from academia, industry, and government organizations to share their knowledge, experiences, and best practices. We look forward to welcoming you to Indore, India, for this exciting conference.
+        <p>The first International Conference on Emerging Technology and Skill Management 
+        (ICETSM 2023) will be held during December 15-16, 2023 at Symbiosis University of 
+        Applied Sciences, Indore, Madhya Pradesh, India. The conference is sponsored by 
+        IEEE MP section.
         <br />
-        <p>Below is the IEEE Flyer of ICETSM 2023</p>
+            <p>ICETSM 2023 is designed to cater to the diversified need of academicians, 
+    researchers, and industry professionals. It is intended to bring multidisciplinary 
+    research on emerging technology and skill management to a platform where the 
+    participants can exchange their ideas, innovation, best practices, real-time problems, 
+    and possible solutions. Plenary keynote speeches are planned to nurture the technical 
+    needs of the participants. All accepted and presented papers will be submitted for 
+    possible publication in IEEE Xplore® Digital Library (Conference Record #58830), 
+    through the IEEE Conference Publications Program (CPP). We invite researchers, 
+    faculty members, industry professionals, and practitioners from around the globe to 
+    present their research articles and expand their networking by connecting with the 
+    pioneer of the respective field.</p>
         </p>
         </div>
         <div className='ieeeLogo'>

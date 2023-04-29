@@ -48,37 +48,37 @@ const Navbar = () => {
 		</div>
 		<ul class="nav-list">
 		<li>
-				<a href="#">HOME</a>
+				<a href="/">HOME</a>
 			</li>
 			<li>
-				<a href="#">COMMITTEE</a>
+				<a href="/committee">COMMITTEE</a>
 			</li>
 			<li>
-				<a href="#">KEYNOTES</a>
+				<a href="/keynotes">KEYNOTES</a>
 			</li>
 			<li>
-				<a href="#">REGISTRATION</a>
+				<a href="/registration">REGISTRATION</a>
 			</li>
 			<li>
 				<a href="#">PAPER SUBMISSION</a>
 				<ul class="dropdown-list">
-					<li><a href="#">Authors Guidelines</a></li>
-					<li><a href="#">Paper Template</a></li>
-					<li><a href="#">Schedule</a></li>
-					<li><a href="#">FAQs</a></li>
+					<li><a href="/paper-submission/authors">Authors Guidelines</a></li>
+					<li><a href="/paper-submission/paper">Paper Template</a></li>
+					<li><a href="/paper-submission/schedule">Schedule</a></li>
+					<li><a href="/paper-submission/faq">FAQs</a></li>
 				</ul>
 			</li>
 			<li>
-				<a href="#">CALL FOR PAPERS</a>
+				<a href="/call-for-papers">CALL FOR PAPERS</a>
 			</li>
 			<li>
-				<a href="#">PUBLICATION</a>
+				<a href="/publications">PUBLICATION</a>
 			</li>
 			<li>
-				<a href="#">SPECIAL SESSION</a>
+				<a href="/special-session">SPECIAL SESSION</a>
 			</li>
 			<li>
-				<a href="#">OUR ASSOCIATE & SPONSORS </a>
+				<a href="/our-associate-sponors">OUR ASSOCIATE & SPONSORS </a>
 			</li>
 		</ul>
 	</div>
