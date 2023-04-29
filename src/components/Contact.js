@@ -18,7 +18,7 @@ const Contact = () => {
             <div class="contact">
                 <img src={call} alt="" /><br />
                 <a href="">CONTACT</a>
-                <p>+91-9389873567</p>
+                <p>+91-9285333022</p>
             </div>
             <div class="email">
                 <img src={email} alt="" /><br />
