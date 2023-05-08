@@ -5,27 +5,23 @@
     justify-content: center;
 }
 
-.imgg{
+#my-img{
     height: 20rem;
-    width: 20rem;
+    width: 22rem;
     border-radius: 2rem;
     margin-right: 1rem;
 }
-.para1{
+.para111{
     display: flex;
     flex-direction: row  ;
     justify-content: start;
-
-
 }
-.para2{
+.para222{
     display: flex;
     flex-direction: row  ;
     justify-content: center;
-    /* padding-top: -100; */
 }
 .para1up{
-
     display: flex;
     flex-direction: column  ;
     justify-content: center;
@@ -42,7 +38,7 @@
     width: 80rem;
     margin-top: 1rem;
 }
-#p1{
+#p111{
     font-weight: 600;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     padding: 1%;
@@ -51,9 +47,9 @@
     align-items: center;
     text-align: justify;
 }
-#p2{
+#p222{
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    padding: 1%;
+    padding: 0.8%;
     align-items: center;
     justify-content: center;
     text-align: justify;

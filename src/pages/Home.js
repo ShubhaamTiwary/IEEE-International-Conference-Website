@@ -8,8 +8,8 @@ import GMap from '../components/GMap'
 const Home = () => {
   return (
     <section className='main'>
-      <ImageSlider />
       <TextSlider />
+      <ImageSlider />
       <About /> 
       <Contact />
     </section>
