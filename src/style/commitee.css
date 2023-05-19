@@ -1,0 +1,10 @@
+.main-committe{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+#committee_staic{
+    height: 130rem;
+    width: 70rem;
+}

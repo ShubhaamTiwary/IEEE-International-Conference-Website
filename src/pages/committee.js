@@ -1,13 +1,11 @@
 import React from 'react'
-import TextSlider from '../components/TextSlider'
-import About from '../components/About'
-import Navbar from '../components/Navbar';
-import Header from '../components/Header';
+import '../style/commitee.css';
+import sta from '../resources/committee_static.png'
 
 const committee = () => {
   return (
-    <div className='main-comm'>
-        COMMITTEE
+    <div className='main-committe'>
+      <img src={sta} id='committee_staic'/>
     </div>
   )
 }

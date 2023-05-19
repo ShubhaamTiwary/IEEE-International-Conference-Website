@@ -1,0 +1,10 @@
+.main-callForPapers{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+#static-img-callForPapers{
+    height: 100rem;
+    width: 65rem;
+}

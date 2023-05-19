@@ -1,0 +1,11 @@
+.main-registartion{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#static-img-register{
+    height: 60rem;
+    width: 75rem;
+}
